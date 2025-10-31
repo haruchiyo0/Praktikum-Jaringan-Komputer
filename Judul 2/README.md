@@ -1,4 +1,4 @@
-# Judul 2
+# Judul 2: Build a Switch and Router Network
 
 ## 🎥 Video Praktikum
 [Link YouTube Tugas Akhir Judul 2](https://youtu.be/d6GroGERqS0)
