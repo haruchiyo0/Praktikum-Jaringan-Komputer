@@ -8,5 +8,8 @@
 ## 🔧 File Cisco Packet Tracer
 [`TA3_Jarkom_Nur Aila Zahra.pkt`](./TA3_Jarkom_Nur%20Aila%20Zahra.pkt)
 
+---
 
+## 🖼️ Topologi Jaringan
+![Topologi Jaringan](./Topologi.png)
 
